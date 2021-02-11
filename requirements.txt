@@ -28,3 +28,4 @@ whitenoise
 python-git
 python-decouple
 django-userforeignkey
+django-ckeditor
